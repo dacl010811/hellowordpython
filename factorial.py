@@ -12,13 +12,6 @@ for num in range(1,numero+1):
 
 print(f"El factorial del numero : {numero} es igual = {fact}")
 
-print(f"El factorial del numero : {numero} es igual = {fact}")
-print(f"El factorial del numero : {numero} es igual = {fact}")
-
-print(f"El factorial del numero : {numero} es igual = {fact}")
-print(f"El factorial del numero : {numero} es igual = {fact}")
-print(f"El factorial del numero : {numero} es igual = {fact}")
-
 
 
 
